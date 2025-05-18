@@ -1,8 +1,8 @@
 
 
 # Link vídeo
-##### recomendável fazer o download
-###### motivo: interações do mouse com o reprodutor de vídeo, fazem a tela escurecer
+--o recomendável fazer o download
+--o motivo? interações do mouse com o reprodutor de vídeo, fazem a tela escurecer
 https://drive.google.com/file/d/1Qq9arMPVKtbqYCwA-cmlTUFde8rzo75H/view?usp=sharing
 
 # Links dos sites hospedados (grupo principal)
